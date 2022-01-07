@@ -1,4 +1,5 @@
 # AzureFunctionsOpenIDConnectAuthSample
+This is a [fork](https://github.com/bryanknox/AzureFunctionsOpenIDConnectAuthSample)
 A sample app that shows how to protect access to an API that is implemented as an HTTP triggered Azure Function and where the authorization server used supports OpenID Connect (OIDC) protocols.
 
 Service providers that support compatible authorization servers include [Auth0](https://auth0.com/), [okta](https://okta.com/) and many others.
